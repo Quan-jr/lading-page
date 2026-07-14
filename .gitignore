@@ -1,0 +1,12 @@
+# Deploy and Wrangler tools/dist
+.deploy-tools/
+.wrangler/
+.deploy-dist/
+.agents/
+
+# Executables
+*.exe
+cloudflared.exe
+
+# Log files
+*.log
